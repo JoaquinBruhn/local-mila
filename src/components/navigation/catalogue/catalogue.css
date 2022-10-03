@@ -1,0 +1,6 @@
+.catalogue-body {
+  min-height: 700px;
+  padding: 50px 10px;
+  background-color: var(--color-three);
+  background-image: linear-gradient(to bottom right, var(--color-three), var(--color-four));
+}
